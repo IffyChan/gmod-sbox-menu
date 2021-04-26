@@ -2,6 +2,9 @@
 
 s&box style main menu for Garry's mod
 
+#### demo
+[![](http://img.youtube.com/vi/V3xEDm0MeDU/0.jpg)](http://www.youtube.com/watch?v=V3xEDm0MeDU "demo")
+
 #### todo
 - starup options for making a local server
 - improve label fonts
